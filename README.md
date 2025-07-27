@@ -58,7 +58,7 @@ Loan Disbursement/
 - **Line + Column Chart** for multi-trend analysis  
 - **Region & Loan Type Filters** for interactivity  
 
-> ![Dashboard Preview](dashboard_screenshot.png)  
+> ![Dashboard Preview](report/dashboard_screenshot.png)  
 > *(Replace with your actual screenshot image)*
 
 ---
