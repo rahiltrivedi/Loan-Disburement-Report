@@ -93,7 +93,7 @@ Loan Disbursement/
 
 **Rahil Trivedi**  
 *Aspiring Data Analyst | Power BI & SQL Enthusiast*  
-📧 rahil@example.com *(replace with your real email if you want)*
+📧 rahiltrivedi138@gmail.com 
 
 ---
 
