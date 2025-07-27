@@ -59,7 +59,6 @@ Loan Disbursement/
 - **Region & Loan Type Filters** for interactivity  
 
 > ![Dashboard Preview](report/dashboard_screenshot.png)  
-> *(Replace with your actual screenshot image)*
 
 ---
 
